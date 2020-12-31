@@ -1,2 +1,4 @@
-# Initial page
+# Preface
+
+This is `README.md`.
 

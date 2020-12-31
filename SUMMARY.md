@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Preface](README.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
 
